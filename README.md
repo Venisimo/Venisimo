@@ -7,9 +7,9 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Back End Developer
+I am a Backend Developer
 
-- 🔭 I’m currently working on Videohosting
+- 🔭 I’m currently working on "Video hosting"
 - 🌱 I'm currently learning how to deploy a website on NodeJS on a VPS using Nginx and Dockerfile.
 
 ---
